@@ -6,7 +6,7 @@ Este projeto em React JS é um carrinho de compras para e-commerce.
 
 ## 🚀 Em desenvolvimento...
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
